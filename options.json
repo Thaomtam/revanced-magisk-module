@@ -1,1 +1,24 @@
-[]
+[
+ {
+  "patches": [
+    {
+      "patchName": "change-package-name",
+      "options": [
+        {
+          "key": "packageName",
+          "value": "com.fbclone1.twitter"
+        }
+      ]
+    },
+    {
+      "patchName": "custom-branding",
+      "options": [
+        {
+          "key": "appName",
+          "value": "Fbclone1 Twitter"
+        }
+      ]
+    }
+  ]
+ }
+]
