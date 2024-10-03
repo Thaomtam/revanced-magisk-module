@@ -8,7 +8,6 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 [Twitter]
 build-mode = "apk"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
-packageName = "com.fbclone1.twitter"
 
 [IconPackStudio]
 enabled = false
